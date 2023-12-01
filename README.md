@@ -1,1 +1,1 @@
-# HumanDemonstration for Imitation Learning
+# Human Demonstration for Imitation Learning
